@@ -6,6 +6,10 @@
 
 `git clean`
 
+- Delete directories that are not tracked by git:
+
+`git clean -d`
+
 - Interactively delete files that are not tracked by git:
 
 `git clean -i`
